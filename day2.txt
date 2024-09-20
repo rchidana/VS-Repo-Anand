@@ -1,8 +1,9 @@
 Hello World!!!
-Anand here!!
+This is Anand & Venkat, resolved conflict, havin coffeee together!!
 
 Some more changes!!!
 
 asd
 asdasd
 asdasd
+This should not cause conflict!!
